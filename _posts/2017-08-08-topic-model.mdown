@@ -2,7 +2,8 @@
 title: 潜在トピックモデル
 layout: post
 categories: 機械学習
-tags: [Topic Model, LDA]
+date: 2017-08-08
+tags: ["Topic_Model", LDA]
 ---
 
 ## Latent Dirichlet Allocation
