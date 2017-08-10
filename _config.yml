@@ -170,3 +170,7 @@ simple_jekyll_search:
 
 plugins:
  - jemoji
+
+imglogo:
+  enable: true               ## 是否显示网站 logo
+  src: img/me.jpg
