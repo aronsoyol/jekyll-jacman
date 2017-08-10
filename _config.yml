@@ -30,8 +30,8 @@ defaults:
 paginate: 20
 
 #### Site
-title : Jekyll Jacman
-tagline: A fresh looking and responsive theme for Jekyll
+title : Aron's Personal Bolg
+tagline: 
 assets: /assets
 url:
 baseurl:
@@ -172,5 +172,5 @@ plugins:
  - jemoji
 
 imglogo:
-  enable: true               ## 是否显示网站 logo
+  enable: false               ## 是否显示网站 logo
   src: img/me.jpg
