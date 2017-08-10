@@ -12,6 +12,8 @@ permalink: pretty
 #### Markdown Processors
 # 'redcarpet' is unsupported on GitHub Pages now.
 markdown: kramdown
+markdown_ext: "markdown,mkdown,mkdn,mkd,md,mdown"
+
 kramdown:
     input: GFM
 
@@ -84,7 +86,7 @@ share_to: true #enable share-to buttons if true
 
 #### Author information
 author:
-  name: yitao      ## e.g. wuchong Author name
+  name: Aron      ## e.g. wuchong Author name
   intro_line1:  "Hello ,I'm Larry Page in Google."    ## your introduction on the bottom of the page
   intro_line2:  "This is my blog,believe it or not."  ## the 2nd line
   weibo:      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
@@ -166,5 +168,5 @@ simple_jekyll_search:
   enable: true
   fulltext: false
 
-gems:
+plugins:
  - jemoji
