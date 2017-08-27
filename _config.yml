@@ -30,7 +30,7 @@ defaults:
 paginate: 20
 
 #### Site
-title : Aron's Personal Bolg
+title : Aron's Personal Blog
 tagline: 
 assets: /assets
 url:
